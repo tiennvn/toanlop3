@@ -1,5 +1,5 @@
-# pyex
-Bài toán lớp 3 giải bằng python.
+# toanlop3
+Bài toán lớp 3 với kết quả rất nhiều nghiệm, giải bằng python.
 
 Đề bài:
     Tính số nghiệm của bài toán lớp 3
