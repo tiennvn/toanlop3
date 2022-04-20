@@ -8,5 +8,5 @@
 ## Threads:
 * Calculating the number of solutions to the 3rd grade math problem 
 * With variables a,b,c,d,e,f,g,h,i being numbers in the range 1-9 (variables with can have the same value), the expression:
-` a + 13 * b / c + d + 12 * e - f - 11 + g * h / i - 10 = 66 `
+* ` a + 13 * b / c + d + 12 * e - f - 11 + g * h / i - 10 = 66 `
 
