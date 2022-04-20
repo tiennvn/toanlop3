@@ -1,13 +1,12 @@
-# toanlop3
-Bài toán lớp 3 với kết quả rất nhiều nghiệm, giải bằng python.
-Tốc độ giải < 1s 🎉
+# Introduction
+* A 3rd grade math problem with huge number of answers
+* It take very long time if process with usual way
+* Use algorithm to optimize process speed, the result of total time less than 1 second
+* Recorded in the top 1 of the python class history record 
 
+# Description
+## Threads:
+* Calculating the number of solutions to the 3rd grade math problem 
+* With variables a,b,c,d,e,f,g,h,i being numbers in the range 1-9 (variables with can have the same value), the expression:
+` a + 13 * b / c + d + 12 * e - f - 11 + g * h / i - 10 = 66 `
 
-Đề bài:
-    Tính số nghiệm của bài toán lớp 3
-    Với các biến a,b,c,d,e,f,g,h,i là các số nằm trong khoảng 1-9 (các biến có
-    thể có giá trị giống nhau), dạng biểu thức:
-      a + 13 * b / c + d + 12 * e - f - 11 + g * h / i - 10 = 66
-
-Link tham khảo: Bài toán lớp 3 có số đáp án khổng lồ
-http://www.familug.org/2015/05/codegolf-giai-bai-toan-lop-3-co-so.html
